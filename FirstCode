@@ -1,1 +1,3 @@
-
+create table employee(
+empid int (10),
+empname varchar(25));
