@@ -1,0 +1,10 @@
+select * from book b1 inner join books t2 on b1.bid=t2.bid;
+
+
+create table books1 as select * from book;
+
+
+create table books1 as select bid,bname from book;
+
+
+https://www.youtube.com/watch?v=wh1jgYfuGb4
